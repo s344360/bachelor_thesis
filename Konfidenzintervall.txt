@@ -1,0 +1,2 @@
+
+Konfidenzintervall: (auch Vertrauensbereich oder Vertrauensintervall und Erwartungsbereich genannt) ist ein Intervall aus der Statistik, das die Präzision der Lageschätzung eines Parameters (zum Beispiel eines Mittelwertes) angeben soll. 

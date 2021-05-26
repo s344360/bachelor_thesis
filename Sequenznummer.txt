@@ -1,0 +1,10 @@
+Sequenznummer um Pakete wieder zu erkennen.
+
+Sequenznummer: ist Bestandteil des TCP-Header.Dafür stehen 4 Byte zur Verfügung.
+in dem Datenfeld Sequenznummer sind die Sequenznummern des gesendeten Pakete für die virtuelle Verbindung eingetragen.
+
+Defintion:—
+Sie werden bei zuverlässigen Netzwerkprotokolle verwendet, um die richtige Reihenfolge und ohne Duplikate zu realisieren.
+Man kann mit dem Nachrichten gemäß ihrer Kausalität sortieren.
+- Daraus weiß der Empfänger, welche Sequenznummer das nächste ankommende Paket haben sollte.
+Wenn eine Nachricht mit niedrigerer Sequenznummer empfangen, so wird diese verworfen 

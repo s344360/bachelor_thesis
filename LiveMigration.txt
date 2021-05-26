@@ -1,0 +1,3 @@
+Paper LiveMigration Zusammenfassen:
+
+Was ist Livemigration:Bei der Hyper-V-Livemigration werden virtuelle Computer von einem physischen Server auf einen anderen verschoben, ohne dass die Verfügbarkeit virtueller Computer für die Benutzer beeinträchtigt wird. Hyper-V in Windows Server 2012 und Windows Server 2012 R2 bietet die folgenden Verbesserungen der Livemigration:

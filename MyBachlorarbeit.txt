@@ -1,0 +1,10 @@
+Mit einer Drohen Datenverkehrmessungen durchführen.
+- Voraussetzungen Linux Programmierung
+- java Python 
+- Matlab
+- Dauer 3 Monate am meisten anwenden.
+- tcpdump.
+- der schwierigste Teil ist zu wissen, wer was geschickt hat.(Pakete )
+- Pakete größe.
+
+

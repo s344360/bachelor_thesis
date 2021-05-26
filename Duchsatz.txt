@@ -1,0 +1,3 @@
+Durchsatz: gibt die Netto-Datenmenge pro Zeit an, übertragen über kabelgebundenes oder kabelloses Netz. Hier werden die reinen Nutzdaten berücksichtigt. 
+Beispiel: Der Datendurchsatz eines  11-Mbit/s-WLAN beträgt 50% der Übertragungsrate,
+also 5,5 Mbit/s netto. Bei WLAN-standard Durchsatz geht man von einem Datendurchsatz von 40% der maximalen Datenübertragungsrate aus.

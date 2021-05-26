@@ -1,0 +1,7 @@
+
+Die Autoren in [6] haben ein statistisches Ausbreitungsmodell für die Vorhersage des Luft-Boden-
+Pfadverlustes zwischen einer Plattform mit niedriger Höhe und einem terrestrischen Terminal vor.
+Diese Anwendungen beinhalten die rasche Wiederherstellung der beschädigten terrestrischen darhtlosen
+Infrastruktur aufgrund einer Naturkatastrophe sowie die Erfüllung der plötzlichen drahtlosen
+Verkehrsüberlastung an bestimmten Stelle durch massive Bewegung von Massen. 
+Die Ergebnisse zeigen, dass durch Ausbreitungsmodell die Planungsbemühungen von luftgetragenen drahtlosen Diensten wesentlich erleichtert werden, da die Radiofrequenz-Planung auf der Grundlage einfacher urbaner Parameter durchgeführt werden kann, anstatt auf standortspezifische 3D-Modelle zu verzichten, die kaum leicht verfügbar und aktualisiert werden können.

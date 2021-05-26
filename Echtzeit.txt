@@ -1,0 +1,5 @@
+Echtzeit: der Betrieb eines Rechensystem, bei dem Programme zur
+Verarbeitung anfallender Daten ständig betriebsbereit sind,
+derart, dass die Verarbeitungsergebnisse innerhalb einer vorgegebenen Zeitspanne verfügbar sind. Die Daten können je nach Anwendungsfall nach einer zeitlich zufälligen Verteilung oder vorherbestimmten Zeitpunkt anfallen.
+
+Der Duden: vorgegebene Zeit, die bestimmte Prozesse einer elektronischen Rechenanlage in der Realität verbrauchen dürfen. 

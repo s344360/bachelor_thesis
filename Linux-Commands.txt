@@ -1,0 +1,14 @@
+
+- „uname“  :was für Betriebsystem ich nutze.
+- „clear“  löscht alles was auf die Seite es gibt. 
+_ „cd ..“  zurückspringen zum Homeverzeichniss.
+- „cd  -“	   wieder zum Homeverzeicniss.
+- „cd #“	   wieder zum Homeverzeicniss.
+- „pwd“	   Print Working Directory.
+- „ls -a “	   zeige alle Dateien auch die versteckten.
+- „mkdir name “	   erstelle eine neue Datei mit Name … 
+- „rm name… “	   Datei löschen
+- „rm -r name “	   Ordner löschen
+- cat Dateiname	    Dateien verbinden
+*******************
+

@@ -1,0 +1,6 @@
+
+Abstract:
+
+More and more demanding applications exist in the networks, driven by the continuous development of new communication technologies. THis places high demands on the networks. where a profound understanding of the applications is essential to optimize the networks and meet requirements.
+
+The new application areas include live video streaming and real-time applications as required for example in 5G use cases with automation,disaster recovery,gaming, and critical control of remote devices.

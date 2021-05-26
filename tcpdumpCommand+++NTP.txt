@@ -1,0 +1,10 @@
+tcpdump commands
+https://www.hugeserver.com/kb/install-use-tcpdump-capture-packets/
+
+tcpdump —v version finden.
+
+
+NTP Kofiguration
+https://www.cyberciti.biz/faq/rhel-fedora-centos-configure-ntp-client-server/
+
+https://www.cyberciti.biz/faq/rhel-fedora-centos-configure-ntp-client-server/

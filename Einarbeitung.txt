@@ -1,0 +1,19 @@
+
+Kommand zu Odroid Verbindung:
+
+1- ssh -x odroid@132.187.12.157 
+
+2. Bing von Odroid zu meinem Rechner 
+ping 132.187.12.93
+
+
+3- ifconfig -a zeigt dir, zeigt dir alle Informationen über dein Netzwerk.
+
+4- ssh —help.
+
+5- exit zurück zum Rechner.
+
+6a- sudo nmcli con up id i3MeshMobile    nmcli NetworkManager Command Line
+6b- sudo nmcli con down id i3MeshMobile	 Passwort: accesspoint
+
+ 

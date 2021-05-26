@@ -1,0 +1,3 @@
+S.Kaisler and W. H. Money,"Service migration in a cloud architecture," in System Sciences (HICSS), 2011 44th Hawaii International Conference on. IEEE, 2011,pp. 1-10.
+
+http://ieeexplore.ieee.org/abstract/document/6678925/?reload=true

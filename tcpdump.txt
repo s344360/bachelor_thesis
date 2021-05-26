@@ -1,0 +1,27 @@
+tcpdump filter:
+
+
+
+
+
+
+
+tcpdump -i en1 dst host 10.42.0.1 > test5.txt
+
+
+*****************************
+tcpdump -i en1 udp and dst host 10.42.0.1 > test8.txt
+
+#### best solution
+
+sender
+tcpdump -i en1 udp and src host 10.42.0.96 and dst host 10.42.0.1 and dst port 5005
+
+
+Empfänger
+tcpdump -i wlan0 udp and src host 10.42.0.96 and dst host 10.42.0.1 and dst port 5005
+
+timestamp in unixform
+tcpdump -tt -i en1 udp and src host 10.42.0.96 and dst host 10.42.0.1 and dst port 5005 > mess50bS.txt
+
+tcpdump -tt -i wlan0 udp and src host 10.42.0.96 and dst host 10.42.0.1 and dst port 5005 

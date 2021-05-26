@@ -1,0 +1,14 @@
+auto lo
+iface lo net loopback
+
+auto wlan0
+iface wlan0 inte static
+address 192.168.1.1
+netmask 255.255.255.0
+
+
+
+
+
+
+Der niedrigste Durchsatz wird beim Hindernis mit 50 Byte Paketen mit 0.06Mbit/s und bei großem Abstand mit 0.083 Mbit/s berechnet. Der größte Durchsatz wird bei kleinem Abstand mit 1500 Byte mit 3.95 Mbit/s erzielt. 

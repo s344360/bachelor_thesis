@@ -1,0 +1,1 @@
+Bandbreite: ist eine Kenngröße in der Signalverarbeitung, die die Breite des Intervalls in einem Frequenzspektrum festlegt. Die Bandbreite ist durch eine untere und eine obere Grenzfrequenz charakterisiert. Der Begriff beschreibt 

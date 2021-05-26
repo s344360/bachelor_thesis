@@ -1,0 +1,21 @@
+19:52:07.331864 IP 162.125.18.133.https > 172.17.114.82.51755: Flags [P.], seq 2864679794:2864680051, ack 3806177627, win 195, options [nop,nop,TS val 3067753482 ecr 692513633], length 257
+19:52:07.331980 IP 172.17.114.82.51755 > 162.125.18.133.https: Flags [.], ack 257, win 4087, options [nop,nop,TS val 692575883 ecr 3067753482], length 0
+19:52:07.337248 IP 172.17.114.82.51755 > 162.125.18.133.https: Flags [P.], seq 1:703, ack 257, win 4096, options [nop,nop,TS val 692575888 ecr 3067753482], length 702
+19:52:07.429268 IP 162.125.18.133.https > 172.17.114.82.51755: Flags [.], ack 703, win 198, options [nop,nop,TS val 3067753536 ecr 692575888], length 0
+19:52:08.162913 IP 172.17.114.82.51252 > wrz0013.rz.uni-wuerzburg.de.domain: 47684+ PTR? 133.18.125.162.in-addr.arpa. (45)
+19:52:08.585112 IP wrz0013.rz.uni-wuerzburg.de.domain > 172.17.114.82.51252: 47684 NXDomain 0/1/0 (103)
+19:52:09.031236 IP 172.17.114.82.51765 > wk-in-f188.1e100.net.5228: Flags [.], ack 2821889360, win 4096, length 0
+19:52:09.044972 IP wk-in-f188.1e100.net.5228 > 172.17.114.82.51765: Flags [.], ack 1, win 179, options [nop,nop,TS val 648582478 ecr 692171141], length 0
+19:52:09.588482 IP 172.17.114.82.58490 > wrz0013.rz.uni-wuerzburg.de.domain: 50772+ PTR? 13.0.187.132.in-addr.arpa. (43)
+19:52:09.592060 IP wrz0013.rz.uni-wuerzburg.de.domain > 172.17.114.82.58490: 50772* 2/2/3 PTR wrz0013.rz.uni-wuerzburg.de., PTR ns2.uni-wuerzburg.de. (229)
+19:52:09.592997 IP 172.17.114.82.55588 > wrz0013.rz.uni-wuerzburg.de.domain: 11232+ PTR? 188.206.125.74.in-addr.arpa. (45)
+19:52:09.594084 IP wrz0013.rz.uni-wuerzburg.de.domain > 172.17.114.82.55588: 11232 1/4/4 PTR wk-in-f188.1e100.net. (225)
+19:52:14.776307 IP 172.17.114.82.52270 > fra15s17-in-f67.1e100.net.https: Flags [.], ack 685587486, win 4096, length 0
+19:52:14.783052 IP fra15s17-in-f67.1e100.net.https > 172.17.114.82.52270: Flags [.], ack 1, win 175, options [nop,nop,TS val 3641373493 ecr 692402423], length 0
+19:52:15.277405 IP 172.17.114.82.52268 > fra15s17-in-f77.1e100.net.https: Flags [.], ack 1788962072, win 4096, length 0
+19:52:15.284663 IP fra15s17-in-f77.1e100.net.https > 172.17.114.82.52268: Flags [.], ack 1, win 180, options [nop,nop,TS val 1839175138 ecr 692402262], length 0
+19:52:15.600533 IP 172.17.114.82.53612 > wrz0013.rz.uni-wuerzburg.de.domain: 45240+ PTR? 67.22.217.172.in-addr.arpa. (44)
+19:52:15.604603 IP wrz0013.rz.uni-wuerzburg.de.domain > 172.17.114.82.53612: 45240 2/4/4 PTR fra15s17-in-f67.1e100.net., PTR fra15s17-in-f3.1e100.net. (258)
+19:52:15.605779 IP 172.17.114.82.59956 > wrz0013.rz.uni-wuerzburg.de.domain: 30285+ PTR? 77.22.217.172.in-addr.arpa. (44)
+19:52:15.607417 IP wrz0013.rz.uni-wuerzburg.de.domain > 172.17.114.82.59956: 30285 2/4/4 PTR fra15s17-in-f77.1e100.net., PTR fra15s17-in-f13.1e100.net. (259)
+
